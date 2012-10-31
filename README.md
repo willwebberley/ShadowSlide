@@ -12,4 +12,5 @@ The example on here is a carousel-style slideshow, though this can easily be mod
 REQUIREMENTS:
 
 JQuery base
+
 JQuery easing plugin (for this example)
